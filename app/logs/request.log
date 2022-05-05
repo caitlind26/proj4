@@ -1,0 +1,758 @@
+2022-04-19 13:12:43,054 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 13:12:43,055 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 13:12:43,056 [INFO] app: Before Request
+2022-04-19 13:12:43,057 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 13:12:43,058 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 13:12:43,202 [INFO] app: After Request
+2022-04-19 13:12:43,213 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 13:12:43,214 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 14:28:24,612 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,614 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,617 [INFO] app: Before Request
+2022-04-19 14:28:24,619 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,620 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,861 [INFO] app: After Request
+2022-04-19 14:28:24,863 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,864 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,902 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,903 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,905 [INFO] app: Before Request
+2022-04-19 14:28:24,906 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,907 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,909 [INFO] app: After Request
+2022-04-19 14:28:24,910 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,911 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,917 [INFO] app: Before Request
+2022-04-19 14:28:24,919 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:24,920 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,095 [INFO] app: After Request
+2022-04-19 14:28:25,096 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,097 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,099 [INFO] app: Before Request
+2022-04-19 14:28:25,100 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,100 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,115 [INFO] app: After Request
+2022-04-19 14:28:25,116 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,116 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,291 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,291 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,293 [INFO] app: Before Request
+2022-04-19 14:28:25,293 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,294 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,474 [INFO] app: After Request
+2022-04-19 14:28:25,476 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,476 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,509 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,511 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,514 [INFO] app: Before Request
+2022-04-19 14:28:25,515 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,517 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,732 [INFO] app: After Request
+2022-04-19 14:28:25,733 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,734 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,828 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,830 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,835 [INFO] app: Before Request
+2022-04-19 14:28:25,837 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:25,839 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,098 [INFO] app: After Request
+2022-04-19 14:28:26,100 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,101 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,139 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,140 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,141 [INFO] app: Before Request
+2022-04-19 14:28:26,141 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,142 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,262 [INFO] app: After Request
+2022-04-19 14:28:26,263 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,264 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,285 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,286 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,287 [INFO] app: Before Request
+2022-04-19 14:28:26,288 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,289 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,437 [INFO] app: After Request
+2022-04-19 14:28:26,439 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,440 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,461 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,462 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,463 [INFO] app: Before Request
+2022-04-19 14:28:26,464 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,464 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,594 [INFO] app: After Request
+2022-04-19 14:28:26,596 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,597 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,622 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,623 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,625 [INFO] app: Before Request
+2022-04-19 14:28:26,626 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,626 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,757 [INFO] app: After Request
+2022-04-19 14:28:26,758 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,760 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,800 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,801 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,802 [INFO] app: Before Request
+2022-04-19 14:28:26,803 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,804 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,934 [INFO] app: After Request
+2022-04-19 14:28:26,935 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:26,937 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,636 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,637 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,639 [INFO] app: Before Request
+2022-04-19 14:28:53,639 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,640 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,781 [INFO] app: After Request
+2022-04-19 14:28:53,783 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,783 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,807 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,808 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,810 [INFO] app: Before Request
+2022-04-19 14:28:53,811 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,811 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,813 [INFO] app: After Request
+2022-04-19 14:28:53,814 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,815 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,817 [INFO] app: Before Request
+2022-04-19 14:28:53,819 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,820 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,978 [INFO] app: After Request
+2022-04-19 14:28:53,979 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,981 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,984 [INFO] app: Before Request
+2022-04-19 14:28:53,985 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:53,986 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,004 [INFO] app: After Request
+2022-04-19 14:28:54,005 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,006 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,489 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,491 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,495 [INFO] app: Before Request
+2022-04-19 14:28:54,496 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,498 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,672 [INFO] app: After Request
+2022-04-19 14:28:54,672 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,673 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,694 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,696 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,700 [INFO] app: Before Request
+2022-04-19 14:28:54,702 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,703 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,933 [INFO] app: After Request
+2022-04-19 14:28:54,935 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,936 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,960 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,961 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,962 [INFO] app: Before Request
+2022-04-19 14:28:54,963 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:54,964 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,132 [INFO] app: After Request
+2022-04-19 14:28:55,134 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,135 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,171 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,172 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,174 [INFO] app: Before Request
+2022-04-19 14:28:55,175 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,176 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,390 [INFO] app: After Request
+2022-04-19 14:28:55,391 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,392 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,414 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,415 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,416 [INFO] app: Before Request
+2022-04-19 14:28:55,416 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,417 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,601 [INFO] app: After Request
+2022-04-19 14:28:55,602 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,603 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,648 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,650 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,652 [INFO] app: Before Request
+2022-04-19 14:28:55,654 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,655 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,829 [INFO] app: After Request
+2022-04-19 14:28:55,829 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,830 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,851 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,852 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,854 [INFO] app: Before Request
+2022-04-19 14:28:55,855 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,855 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,985 [INFO] app: After Request
+2022-04-19 14:28:55,987 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:55,988 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:56,019 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:56,020 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:56,022 [INFO] app: Before Request
+2022-04-19 14:28:56,023 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:56,024 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:56,259 [INFO] app: After Request
+2022-04-19 14:28:56,261 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:28:56,262 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,264 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,265 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,267 [INFO] app: Before Request
+2022-04-19 14:31:33,268 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,269 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,451 [INFO] app: After Request
+2022-04-19 14:31:33,453 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,454 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,477 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,478 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,480 [INFO] app: Before Request
+2022-04-19 14:31:33,480 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,481 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,482 [INFO] app: After Request
+2022-04-19 14:31:33,483 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,484 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,486 [INFO] app: Before Request
+2022-04-19 14:31:33,487 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,487 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,682 [INFO] app: After Request
+2022-04-19 14:31:33,683 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,684 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,687 [INFO] app: Before Request
+2022-04-19 14:31:33,688 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,689 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,711 [INFO] app: After Request
+2022-04-19 14:31:33,712 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,714 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,951 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,953 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,956 [INFO] app: Before Request
+2022-04-19 14:31:33,958 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:33,960 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,166 [INFO] app: After Request
+2022-04-19 14:31:34,166 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,167 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,191 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,192 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,193 [INFO] app: Before Request
+2022-04-19 14:31:34,194 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,194 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,316 [INFO] app: After Request
+2022-04-19 14:31:34,317 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,318 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,343 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,344 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,345 [INFO] app: Before Request
+2022-04-19 14:31:34,346 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,347 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,497 [INFO] app: After Request
+2022-04-19 14:31:34,499 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,501 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,600 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,601 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,603 [INFO] app: Before Request
+2022-04-19 14:31:34,604 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,605 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,787 [INFO] app: After Request
+2022-04-19 14:31:34,788 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,789 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,842 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,844 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,846 [INFO] app: Before Request
+2022-04-19 14:31:34,848 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:34,850 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,099 [INFO] app: After Request
+2022-04-19 14:31:35,100 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,101 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,126 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,127 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,128 [INFO] app: Before Request
+2022-04-19 14:31:35,129 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,130 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,292 [INFO] app: After Request
+2022-04-19 14:31:35,293 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,294 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,315 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,316 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,317 [INFO] app: Before Request
+2022-04-19 14:31:35,318 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,319 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,438 [INFO] app: After Request
+2022-04-19 14:31:35,440 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,441 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,465 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,466 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,467 [INFO] app: Before Request
+2022-04-19 14:31:35,468 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,469 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,608 [INFO] app: After Request
+2022-04-19 14:31:35,609 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:31:35,610 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,450 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,453 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,456 [INFO] app: Before Request
+2022-04-19 14:32:48,457 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,459 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,667 [INFO] app: After Request
+2022-04-19 14:32:48,668 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,668 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,688 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,689 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,690 [INFO] app: Before Request
+2022-04-19 14:32:48,691 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,692 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,693 [INFO] app: After Request
+2022-04-19 14:32:48,693 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,694 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,695 [INFO] app: Before Request
+2022-04-19 14:32:48,696 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,697 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,823 [INFO] app: After Request
+2022-04-19 14:32:48,825 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,826 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,829 [INFO] app: Before Request
+2022-04-19 14:32:48,830 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,831 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,847 [INFO] app: After Request
+2022-04-19 14:32:48,848 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:48,848 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,062 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,063 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,065 [INFO] app: Before Request
+2022-04-19 14:32:49,066 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,068 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,290 [INFO] app: After Request
+2022-04-19 14:32:49,292 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,293 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,334 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,335 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,338 [INFO] app: Before Request
+2022-04-19 14:32:49,339 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,340 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,552 [INFO] app: After Request
+2022-04-19 14:32:49,553 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,554 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,577 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,578 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,580 [INFO] app: Before Request
+2022-04-19 14:32:49,581 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,581 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,795 [INFO] app: After Request
+2022-04-19 14:32:49,795 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,796 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,828 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,828 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,830 [INFO] app: Before Request
+2022-04-19 14:32:49,830 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,831 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,968 [INFO] app: After Request
+2022-04-19 14:32:49,970 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:49,971 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,016 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,018 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,022 [INFO] app: Before Request
+2022-04-19 14:32:50,024 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,026 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,242 [INFO] app: After Request
+2022-04-19 14:32:50,243 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,244 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,274 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,276 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,278 [INFO] app: Before Request
+2022-04-19 14:32:50,279 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,280 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,428 [INFO] app: After Request
+2022-04-19 14:32:50,429 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,429 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,455 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,456 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,457 [INFO] app: Before Request
+2022-04-19 14:32:50,458 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,459 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,586 [INFO] app: After Request
+2022-04-19 14:32:50,587 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,588 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,610 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,611 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,612 [INFO] app: Before Request
+2022-04-19 14:32:50,613 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,614 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,739 [INFO] app: After Request
+2022-04-19 14:32:50,741 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:32:50,742 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,542 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,543 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,545 [INFO] app: Before Request
+2022-04-19 14:33:30,545 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,546 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,682 [INFO] app: After Request
+2022-04-19 14:33:30,683 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,683 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,706 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,707 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,709 [INFO] app: Before Request
+2022-04-19 14:33:30,709 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,710 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,711 [INFO] app: After Request
+2022-04-19 14:33:30,712 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,713 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,715 [INFO] app: Before Request
+2022-04-19 14:33:30,716 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,717 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,976 [INFO] app: After Request
+2022-04-19 14:33:30,978 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,980 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,984 [INFO] app: Before Request
+2022-04-19 14:33:30,985 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:30,987 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,023 [INFO] app: After Request
+2022-04-19 14:33:31,025 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,027 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,222 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,223 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,225 [INFO] app: Before Request
+2022-04-19 14:33:31,225 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,226 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,391 [INFO] app: After Request
+2022-04-19 14:33:31,392 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,393 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,416 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,418 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,421 [INFO] app: Before Request
+2022-04-19 14:33:31,422 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,423 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,619 [INFO] app: After Request
+2022-04-19 14:33:31,620 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,620 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,640 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,641 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,642 [INFO] app: Before Request
+2022-04-19 14:33:31,642 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,643 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,789 [INFO] app: After Request
+2022-04-19 14:33:31,789 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,790 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,834 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,835 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,837 [INFO] app: Before Request
+2022-04-19 14:33:31,838 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:31,838 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,057 [INFO] app: After Request
+2022-04-19 14:33:32,058 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,059 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,085 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,086 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,087 [INFO] app: Before Request
+2022-04-19 14:33:32,089 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,089 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,223 [INFO] app: After Request
+2022-04-19 14:33:32,225 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,226 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,249 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,250 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,252 [INFO] app: Before Request
+2022-04-19 14:33:32,252 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,253 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,460 [INFO] app: After Request
+2022-04-19 14:33:32,461 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,462 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,510 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,512 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,515 [INFO] app: Before Request
+2022-04-19 14:33:32,516 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,518 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,734 [INFO] app: After Request
+2022-04-19 14:33:32,736 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,737 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,819 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,822 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,826 [INFO] app: Before Request
+2022-04-19 14:33:32,828 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:32,830 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:33,000 [INFO] app: After Request
+2022-04-19 14:33:33,001 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 14:33:33,001 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 15:12:52,078 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:12:52,079 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:12:52,080 [INFO] app: Before Request
+2022-04-19 15:12:52,081 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:12:52,082 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:12:52,223 [INFO] app: After Request
+2022-04-19 15:12:52,224 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:12:52,225 [INFO] root: URL: http://localhost/ , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:16:41,934 [INFO] app: Before Request
+2022-04-19 15:16:41,935 [INFO] root: URL: http://localhost/about , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /about, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:16:41,937 [INFO] root: URL: http://localhost/about , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /about, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:16:41,956 [INFO] app: After Request
+2022-04-19 15:16:41,956 [INFO] root: URL: http://localhost/about , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /about, IP: 172.21.0.1, Host: localhost
+2022-04-19 15:16:41,957 [INFO] root: URL: http://localhost/about , Remote Address: 172.21.0.1 , Request Method: GET , Request Path: /about, IP: 172.21.0.1, Host: localhost
+2022-04-19 19:18:20,890 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:20,891 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:20,892 [INFO] app: Before Request
+2022-04-19 19:18:20,893 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:20,893 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,015 [INFO] app: After Request
+2022-04-19 19:18:21,015 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,016 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,036 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,037 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,038 [INFO] app: Before Request
+2022-04-19 19:18:21,039 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,039 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,040 [INFO] app: After Request
+2022-04-19 19:18:21,040 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,041 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,043 [INFO] app: Before Request
+2022-04-19 19:18:21,044 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,044 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,161 [INFO] app: After Request
+2022-04-19 19:18:21,162 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,162 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,164 [INFO] app: Before Request
+2022-04-19 19:18:21,165 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,166 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,178 [INFO] app: After Request
+2022-04-19 19:18:21,179 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,179 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,314 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,315 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,316 [INFO] app: Before Request
+2022-04-19 19:18:21,317 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,317 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,436 [INFO] app: After Request
+2022-04-19 19:18:21,437 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,438 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,461 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,461 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,463 [INFO] app: Before Request
+2022-04-19 19:18:21,463 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,464 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,581 [INFO] app: After Request
+2022-04-19 19:18:21,582 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,582 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,602 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,603 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,604 [INFO] app: Before Request
+2022-04-19 19:18:21,605 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,605 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,722 [INFO] app: After Request
+2022-04-19 19:18:21,723 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,724 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,767 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,768 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,770 [INFO] app: Before Request
+2022-04-19 19:18:21,770 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,771 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,918 [INFO] app: After Request
+2022-04-19 19:18:21,919 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,920 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,941 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,942 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,943 [INFO] app: Before Request
+2022-04-19 19:18:21,943 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:21,944 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,067 [INFO] app: After Request
+2022-04-19 19:18:22,068 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,069 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,091 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,092 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,093 [INFO] app: Before Request
+2022-04-19 19:18:22,093 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,094 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,210 [INFO] app: After Request
+2022-04-19 19:18:22,211 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,212 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,234 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,235 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,236 [INFO] app: Before Request
+2022-04-19 19:18:22,237 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,238 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,354 [INFO] app: After Request
+2022-04-19 19:18:22,355 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,356 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,379 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,380 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,381 [INFO] app: Before Request
+2022-04-19 19:18:22,381 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,382 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,500 [INFO] app: After Request
+2022-04-19 19:18:22,501 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:18:22,502 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,510 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,510 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,511 [INFO] app: Before Request
+2022-04-19 19:19:13,512 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,512 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,636 [INFO] app: After Request
+2022-04-19 19:19:13,637 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,637 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,661 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,662 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,664 [INFO] app: Before Request
+2022-04-19 19:19:13,664 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,665 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,666 [INFO] app: After Request
+2022-04-19 19:19:13,666 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,667 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,669 [INFO] app: Before Request
+2022-04-19 19:19:13,669 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,669 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,794 [INFO] app: After Request
+2022-04-19 19:19:13,795 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,796 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,798 [INFO] app: Before Request
+2022-04-19 19:19:13,799 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,800 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,814 [INFO] app: After Request
+2022-04-19 19:19:13,814 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,815 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,964 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,965 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,966 [INFO] app: Before Request
+2022-04-19 19:19:13,967 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:13,967 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,088 [INFO] app: After Request
+2022-04-19 19:19:14,089 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,090 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,112 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,113 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,114 [INFO] app: Before Request
+2022-04-19 19:19:14,115 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,115 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,232 [INFO] app: After Request
+2022-04-19 19:19:14,233 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,234 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,257 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,258 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,259 [INFO] app: Before Request
+2022-04-19 19:19:14,260 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,260 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,380 [INFO] app: After Request
+2022-04-19 19:19:14,381 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,382 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,423 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,424 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,425 [INFO] app: Before Request
+2022-04-19 19:19:14,425 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,426 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,545 [INFO] app: After Request
+2022-04-19 19:19:14,546 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,547 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,568 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,569 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,570 [INFO] app: Before Request
+2022-04-19 19:19:14,570 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,571 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,690 [INFO] app: After Request
+2022-04-19 19:19:14,691 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,692 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,716 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,716 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,718 [INFO] app: Before Request
+2022-04-19 19:19:14,718 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,719 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,850 [INFO] app: After Request
+2022-04-19 19:19:14,850 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,851 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,871 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,872 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,873 [INFO] app: Before Request
+2022-04-19 19:19:14,873 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,874 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,987 [INFO] app: After Request
+2022-04-19 19:19:14,989 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:14,989 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:15,011 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:15,012 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:15,013 [INFO] app: Before Request
+2022-04-19 19:19:15,014 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:15,014 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:15,131 [INFO] app: After Request
+2022-04-19 19:19:15,132 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:19:15,133 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,469 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,470 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,471 [INFO] app: Before Request
+2022-04-19 19:26:13,472 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,473 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,602 [INFO] app: After Request
+2022-04-19 19:26:13,602 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,603 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,623 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,624 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,625 [INFO] app: Before Request
+2022-04-19 19:26:13,626 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,627 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,628 [INFO] app: After Request
+2022-04-19 19:26:13,629 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,629 [INFO] root: URL: http://localhost/dashboard , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /dashboard, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,631 [INFO] app: Before Request
+2022-04-19 19:26:13,631 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,632 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,758 [INFO] app: After Request
+2022-04-19 19:26:13,759 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,760 [INFO] root: URL: http://localhost/register , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /register, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,762 [INFO] app: Before Request
+2022-04-19 19:26:13,763 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,764 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,776 [INFO] app: After Request
+2022-04-19 19:26:13,777 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,777 [INFO] root: URL: http://localhost/login , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /login, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,930 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,931 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,932 [INFO] app: Before Request
+2022-04-19 19:26:13,933 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:13,934 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,054 [INFO] app: After Request
+2022-04-19 19:26:14,055 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,056 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,077 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,078 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,079 [INFO] app: Before Request
+2022-04-19 19:26:14,079 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,080 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,199 [INFO] app: After Request
+2022-04-19 19:26:14,200 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,201 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,224 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,225 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,226 [INFO] app: Before Request
+2022-04-19 19:26:14,227 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,227 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,347 [INFO] app: After Request
+2022-04-19 19:26:14,349 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,349 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,390 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,391 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,392 [INFO] app: Before Request
+2022-04-19 19:26:14,392 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,393 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,514 [INFO] app: After Request
+2022-04-19 19:26:14,515 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,516 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,540 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,541 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,542 [INFO] app: Before Request
+2022-04-19 19:26:14,543 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,544 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,666 [INFO] app: After Request
+2022-04-19 19:26:14,667 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,668 [INFO] root: URL: http://localhost/ , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,689 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,690 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,691 [INFO] app: Before Request
+2022-04-19 19:26:14,691 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,692 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,823 [INFO] app: After Request
+2022-04-19 19:26:14,823 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,824 [INFO] root: URL: http://localhost/about , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /about, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,846 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,847 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,848 [INFO] app: Before Request
+2022-04-19 19:26:14,848 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,849 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,967 [INFO] app: After Request
+2022-04-19 19:26:14,968 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,969 [INFO] root: URL: http://localhost/welcome , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /welcome, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,990 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,991 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,992 [INFO] app: Before Request
+2022-04-19 19:26:14,992 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:14,993 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:15,111 [INFO] app: After Request
+2022-04-19 19:26:15,112 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
+2022-04-19 19:26:15,113 [INFO] root: URL: http://localhost/page5 , Remote Address: 127.0.0.1 , Request Method: GET , Request Path: /page5, IP: 127.0.0.1, Host: localhost
