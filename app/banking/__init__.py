@@ -49,9 +49,15 @@ def transactions_upload():
         with open(filepath) as file:
             csv_file = csv.DictReader(file)
             for row in csv_file:
-                list_of_transactions.append(Bank(row['Amount'],row['Type']))
+                amount = row.get("AMOUNT")
+                type = row.get("TYPE")
+                if amount is None: continue
+                if type is None: continue
+                list_of_transactions.append(row(amount), row(type))
+
 
         current_user.banking = list_of_transactions
+        #current_user.balance += row['AMOUNT']
         db.session.commit()
 
         return redirect(url_for('banking.transactions_browse'))
