@@ -53,8 +53,8 @@ def transactions_upload():
                 type = row.get("TYPE")
                 if amount is None: continue
                 if type is None: continue
-                list_of_transactions.append(row(amount), row(type))
-
+                list_of_transactions.append(Bank(row(amount)))
+                list_of_transactions.append(Bank(row(type)))
 
         current_user.banking = list_of_transactions
         #current_user.balance += row['AMOUNT']
