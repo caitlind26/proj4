@@ -49,7 +49,7 @@ def transactions_upload():
         with open(filepath) as file:
             csv_file = csv.DictReader(file)
             for row in csv_file:
-                list_of_transactions.append(Bank(row['AMOUNT'],row['TYPE']))
+                list_of_transactions.append(Bank(row['Amount'],row['Type']))
 
         current_user.banking = list_of_transactions
         db.session.commit()

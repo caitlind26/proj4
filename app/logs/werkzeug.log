@@ -414,3 +414,131 @@
 2022-05-05 20:02:08,208 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 20:02:08] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
 2022-05-05 20:02:08,325 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 20:02:08] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
 2022-05-05 20:02:08,353 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 20:02:08] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-05 23:05:40,781 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:05:40] "GET / HTTP/1.1" 200 -
+2022-05-05 23:05:41,628 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:05:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-05 23:05:43,728 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:05:43] "GET /register HTTP/1.1" 200 -
+2022-05-05 23:10:52,043 [INFO] werkzeug:  * Detected change in '/home/myuser/app/db/models/__init__.py', reloading
+2022-05-05 23:11:22,161 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:11:22] "GET / HTTP/1.1" 200 -
+2022-05-05 23:11:24,865 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:11:24] "GET /register HTTP/1.1" 200 -
+2022-05-05 23:11:37,060 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:11:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2022-05-05 23:11:37,084 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:11:37] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-05 23:11:37,085 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:11:37] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-05 23:11:37,244 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:11:37] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-05 23:11:37,271 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:11:37] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-05 23:12:18,752 [INFO] werkzeug:  * Detected change in '/home/myuser/app/db/models/__init__.py', reloading
+2022-05-05 23:12:38,166 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:12:38] "GET / HTTP/1.1" 200 -
+2022-05-05 23:12:41,252 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:12:41] "GET /register HTTP/1.1" 200 -
+2022-05-05 23:12:49,857 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:12:49] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2022-05-05 23:12:49,880 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:12:49] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-05 23:12:49,881 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:12:49] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-05 23:12:50,036 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:12:50] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-05 23:12:50,051 [INFO] werkzeug: 172.19.0.1 - - [05/May/2022 23:12:50] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-05 23:14:04,020 [INFO] werkzeug:  * Detected change in '/home/myuser/app/db/models/__init__.py', reloading
+2022-05-06 21:13:33,769 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:13:33] "GET / HTTP/1.1" 200 -
+2022-05-06 21:13:34,113 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:13:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-06 21:18:24,944 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:18:24] "GET /register HTTP/1.1" 200 -
+2022-05-06 21:18:35,435 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:18:35] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2022-05-06 21:18:35,462 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:18:35] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-06 21:18:35,463 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:18:35] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-06 21:18:35,599 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:18:35] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:18:35,631 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:18:35] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:21:15,510 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-06 21:26:02,596 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:26:02] "GET / HTTP/1.1" 200 -
+2022-05-06 21:26:05,109 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:26:05] "GET /register HTTP/1.1" 200 -
+2022-05-06 21:26:12,086 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:26:12] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2022-05-06 21:26:12,107 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:26:12] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-06 21:26:12,108 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:26:12] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-06 21:26:12,259 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:26:12] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:26:12,289 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:26:12] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:29:12,439 [INFO] werkzeug:  * Detected change in '/home/myuser/app/__init__.py', reloading
+2022-05-06 21:43:40,527 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:43:40] "GET / HTTP/1.1" 200 -
+2022-05-06 21:43:42,481 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:43:42] "GET /register HTTP/1.1" 200 -
+2022-05-06 21:43:52,137 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:43:52] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-05-06 21:43:52,165 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:43:52] "GET /login HTTP/1.1" 200 -
+2022-05-06 21:43:58,593 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:43:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-05-06 21:43:58,633 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:43:58] "GET /dashboard HTTP/1.1" 200 -
+2022-05-06 21:44:59,961 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:44:59] "GET /banking/upload HTTP/1.1" 200 -
+2022-05-06 21:45:06,746 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:45:06] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-06 21:45:06,776 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:45:06] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-06 21:45:06,780 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:45:06] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-06 21:45:06,963 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:45:06] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:45:06,986 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:45:06] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:46:38,227 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-06 21:50:17,825 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:17] "GET / HTTP/1.1" 200 -
+2022-05-06 21:50:20,651 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:20] "GET /register HTTP/1.1" 200 -
+2022-05-06 21:50:32,894 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:32] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-05-06 21:50:32,943 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:32] "GET /login HTTP/1.1" 200 -
+2022-05-06 21:50:36,020 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-05-06 21:50:36,075 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:36] "GET /dashboard HTTP/1.1" 200 -
+2022-05-06 21:50:37,974 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:37] "GET /banking HTTP/1.1" 200 -
+2022-05-06 21:50:39,040 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:39] "GET /banking/upload HTTP/1.1" 200 -
+2022-05-06 21:50:44,511 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:44] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-06 21:50:44,531 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-06 21:50:44,533 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-06 21:50:44,661 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:50:44,685 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:50:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:52:10,027 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:52:10] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-06 21:52:10,050 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:52:10] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-06 21:52:10,052 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:52:10] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-06 21:52:10,133 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:52:10] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:52:10,162 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 21:52:10] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-06 21:53:30,569 [INFO] werkzeug:  * Detected change in '/home/myuser/app/db/models/__init__.py', reloading
+2022-05-06 22:00:39,531 [INFO] werkzeug: 172.19.0.1 - - [06/May/2022 22:00:39] "GET / HTTP/1.1" 200 -
+2022-05-07 16:31:32,574 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:31:32] "GET /banking/upload HTTP/1.1" 200 -
+2022-05-07 16:31:36,700 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:31:36] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 16:31:36,725 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:31:36] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 16:31:36,728 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:31:36] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 16:31:36,916 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:31:36] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:31:36,966 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:31:36] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:32:49,280 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:32:49] "GET /banking/upload HTTP/1.1" 200 -
+2022-05-07 16:32:52,865 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:32:52] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 16:32:52,881 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:32:52] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 16:32:52,882 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:32:52] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 16:32:52,952 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:32:52] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:32:52,985 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:32:52] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:40:42,213 [INFO] werkzeug:  * Detected change in '/home/myuser/app/banking/__init__.py', reloading
+2022-05-07 16:40:50,649 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:50] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 16:40:50,670 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:50] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 16:40:50,673 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:50] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 16:40:50,855 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:50] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:40:50,887 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:50] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:40:59,626 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:59] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 16:40:59,662 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:59] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 16:40:59,663 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:59] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 16:40:59,709 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:59] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:40:59,739 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:40:59] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:41:24,112 [INFO] werkzeug:  * Detected change in '/home/myuser/app/banking/__init__.py', reloading
+2022-05-07 16:54:32,169 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:54:32] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 16:54:32,228 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:54:32] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 16:54:32,233 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:54:32] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 16:54:32,435 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:54:32] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:54:32,469 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:54:32] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:58:12,297 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:58:12] "GET / HTTP/1.1" 200 -
+2022-05-07 16:58:17,567 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:58:17] "GET /banking/upload HTTP/1.1" 200 -
+2022-05-07 16:58:22,962 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:58:22] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 16:58:22,986 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:58:22] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 16:58:22,987 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:58:22] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 16:58:23,208 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:58:23] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 16:58:23,251 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 16:58:23] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 17:00:30,732 [INFO] werkzeug:  * Detected change in '/home/myuser/app/db/models/__init__.py', reloading
+2022-05-07 17:05:01,430 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:01] "GET / HTTP/1.1" 200 -
+2022-05-07 17:05:03,520 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:03] "GET /banking/upload HTTP/1.1" 200 -
+2022-05-07 17:05:09,402 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:09] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 17:05:09,457 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:09] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 17:05:09,461 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:09] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 17:05:09,648 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:09] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 17:05:09,672 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:09] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 17:05:28,526 [INFO] werkzeug:  * Detected change in '/home/myuser/app/banking/__init__.py', reloading
+2022-05-07 17:05:37,270 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:37] "GET / HTTP/1.1" 200 -
+2022-05-07 17:05:38,721 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:38] "GET /banking/upload HTTP/1.1" 200 -
+2022-05-07 17:05:44,371 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:44] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 17:05:44,405 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 17:05:44,408 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 17:05:44,546 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 17:05:44,573 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:05:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 17:08:43,790 [INFO] werkzeug:  * Detected change in '/home/myuser/app/db/models/__init__.py', reloading
+2022-05-07 17:09:44,820 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:09:44] "[35m[1mPOST /banking/upload HTTP/1.1[0m" 500 -
+2022-05-07 17:09:44,854 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:09:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-05-07 17:09:44,855 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:09:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-05-07 17:09:44,915 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:09:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-05-07 17:09:44,945 [INFO] werkzeug: 172.19.0.1 - - [07/May/2022 17:09:44] "[36mGET /banking/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

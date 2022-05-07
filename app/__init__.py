@@ -1,5 +1,8 @@
 """A simple flask web app"""
 import os
+import logging
+from logging.handlers import RotatingFileHandler
+
 from flask import Flask, render_template
 from app.cli import create_database
 from app.db import db
@@ -13,7 +16,7 @@ from app.auth import auth
 from app.cli import create_database, create_log_folder, create_uploads_folder
 from app.context_processors import utility_text_processors
 from app.db import db
-from app.db.models import User
+from app.db.models import User, Bank
 from app.error_handlers import error_handlers
 from app.logging_config import log_con
 from app.simple_pages import simple_pages
@@ -78,9 +81,3 @@ def user_loader(user_id):
         return User.query.get(int(user_id))
     except:
         return None
-
-  #  @app.route('/')
-   # def hello():
-    #    return 'Hello, World!'
-
-  #  return app
