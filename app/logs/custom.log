@@ -1,0 +1,511 @@
+[2022-04-14 18:23:54,262] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:23:54,265] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:23:54,409] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:23:54,410] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:23:54] "GET / HTTP/1.1" 200 -
+[2022-04-14 18:24:26,276] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:24:26,294] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:24:26,295] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:24:26] "GET / HTTP/1.1" 200 -
+[2022-04-14 18:24:33,427] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:24:33,437] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:24:33,438] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:24:33] "GET / HTTP/1.1" 200 -
+[2022-04-14 18:24:34,566] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:24:34,576] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:24:34,577] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:24:34] "GET / HTTP/1.1" 200 -
+[2022-04-14 18:34:15,890] [36] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-14 18:34:15,929] [36] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-14 18:34:15,932] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:34:15] "GET /login HTTP/1.1" 200 -
+[2022-04-14 18:34:29,514] [36] 172.21.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-14 18:34:29,529] [36] 172.21.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-14 18:34:29,530] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:34:29] "GET /register HTTP/1.1" 200 -
+[2022-04-14 18:34:33,610] [36] 172.21.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-14 18:34:33,663] [36] 172.21.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-14 18:34:33,666] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:34:33] "GET /about HTTP/1.1" 200 -
+[2022-04-14 18:34:34,527] [36] 172.21.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-14 18:34:34,611] [36] 172.21.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-14 18:34:34,614] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:34:34] "GET /welcome HTTP/1.1" 200 -
+[2022-04-14 18:34:35,757] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:34:35,793] [36] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-14 18:34:35,798] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:34:35] "GET / HTTP/1.1" 200 -
+[2022-04-14 18:34:37,181] [36] 172.21.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-14 18:34:37,197] [36] 172.21.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-14 18:34:37,201] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:34:37] "GET /register HTTP/1.1" 200 -
+[2022-04-14 18:35:23,944] [36] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-14 18:35:23,950] [36] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-14 18:35:23,951] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:35:23] "GET /login HTTP/1.1" 200 -
+[2022-04-14 18:38:51,904] [36] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-14 18:38:51,929] [36] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-14 18:38:51,930] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:38:51] "GET /login HTTP/1.1" 200 -
+[2022-04-14 18:38:54,417] [36] 172.21.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-14 18:38:54,500] [36] 172.21.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-14 18:38:54,503] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:38:54] "GET /register HTTP/1.1" 200 -
+[2022-04-14 18:39:05,933] [36] 172.21.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-14 18:39:05,991] [36] 172.21.0.1 requested http://localhost/registerINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:39:05] "%s" %s %s
+[2022-04-14 18:39:06,007] [36] 172.21.0.1 requested http://localhost/registerINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:39:06] "%s" %s %s
+[2022-04-14 18:39:06,009] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:39:06] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2022-04-14 18:39:06,237] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:39:06] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2022-04-14 18:39:06,271] [36] None requested NoneINFO in _internal: 172.21.0.1 - - [14/Apr/2022 18:39:06] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2022-04-16 16:54:35,767] [36] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/tests/logs_test.py', reloading
+[2022-04-16 16:59:06,026] [55] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 16:59:06,055] [55] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 16:59:08,930] [55] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 16:59:08,938] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 16:59:08] "GET / HTTP/1.1" 200 -
+[2022-04-16 17:16:51,352] [55] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:16:51,401] [55] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:16:51,416] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:16:51] "GET / HTTP/1.1" 200 -
+[2022-04-16 17:16:57,781] [55] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:16:58,172] [55] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:16:58] "%s" %s %s
+[2022-04-16 17:16:58,332] [55] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:16:58] "%s" %s %s
+[2022-04-16 17:16:58,350] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:16:58] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2022-04-16 17:16:59,190] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:16:59] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2022-04-16 17:16:59,376] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:16:59] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2022-04-16 17:17:04,681] [55] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:17:04,763] [55] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:17:04,765] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:17:04] "GET /login HTTP/1.1" 200 -
+[2022-04-16 17:17:07,349] [55] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:17:07,431] [55] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:17:07] "%s" %s %s
+[2022-04-16 17:17:07,507] [55] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:17:07] "%s" %s %s
+[2022-04-16 17:17:07,517] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:17:07] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2022-04-16 17:17:08,148] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:17:08] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2022-04-16 17:17:08,433] [55] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 17:17:08] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2022-04-16 17:22:28,134] [55] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logs/logs.py', reloading
+[2022-04-16 17:42:02,804] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:02,819] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:04,424] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:04,574] [84] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-16 17:42:04,581] [84] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-16 17:42:04,587] [84] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-16 17:42:04,602] [84] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 17:42:05,819] [84] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 17:42:05,837] [84] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:42:05,914] [84] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:42:07,190] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:07,195] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:08,215] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:08,343] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:08,350] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:09,502] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:09,618] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:09,624] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:10,388] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:10,469] [84] 127.0.0.1 requested http://localhost/logsINFO in __init__: My App Logger
+[2022-04-16 17:42:10,474] [84] 127.0.0.1 requested http://localhost/logsINFO in __init__: My App Logger
+[2022-04-16 17:42:11,230] [84] 127.0.0.1 requested http://localhost/logsINFO in __init__: My App Logger
+[2022-04-16 17:42:11,386] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:11,391] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:12,167] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:12,240] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:12,244] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:12,880] [84] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:42:12,970] [84] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-16 17:42:12,975] [84] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-16 17:42:13,728] [84] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-16 17:42:13,839] [84] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-16 17:42:13,845] [84] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-16 17:42:14,562] [84] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-16 17:42:14,666] [84] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-16 17:42:14,670] [84] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-16 17:42:15,589] [84] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-16 17:51:07,713] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:07,726] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:09,374] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:09,590] [96] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-16 17:51:09,601] [96] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-16 17:51:09,614] [96] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-16 17:51:09,639] [96] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 17:51:11,912] [96] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 17:51:11,929] [96] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:51:11,996] [96] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 17:51:13,384] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:13,395] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:14,820] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:14,969] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:14,974] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:16,765] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:16,928] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:16,934] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:18,445] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:18,606] [96] 127.0.0.1 requested http://localhost/debug.logINFO in __init__: My App Logger
+[2022-04-16 17:51:18,612] [96] 127.0.0.1 requested http://localhost/debug.logINFO in __init__: My App Logger
+[2022-04-16 17:51:20,322] [96] 127.0.0.1 requested http://localhost/debug.logINFO in __init__: My App Logger
+[2022-04-16 17:51:20,865] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:20,878] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:22,292] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:22,538] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:22,549] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:24,183] [96] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 17:51:24,457] [96] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-16 17:51:24,474] [96] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-16 17:51:25,971] [96] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-16 17:51:26,125] [96] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-16 17:51:26,131] [96] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-16 17:51:27,344] [96] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-16 17:51:27,469] [96] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-16 17:51:27,475] [96] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-16 17:51:29,180] [96] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-16 23:24:31,442] [140] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 23:24:31,466] [140] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 23:24:32,628] [140] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-16 23:24:32,641] [140] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 23:24:32] "GET / HTTP/1.1" 200 -
+[2022-04-16 23:24:37,365] [140] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-16 23:24:37,570] [140] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [16/Apr/2022 23:24:37] "%s" %s %s
+[2022-04-16 23:24:37,680] [140] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [16/Apr/2022 23:24:37] "%s" %s %s
+[2022-04-16 23:24:37,708] [140] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 23:24:37] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2022-04-16 23:24:38,493] [140] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 23:24:38] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2022-04-16 23:24:38,724] [140] None requested NoneINFO in _internal: 172.21.0.1 - - [16/Apr/2022 23:24:38] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2022-04-16 23:26:39,990] [140] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__Init__.py', reloading
+[2022-04-18 13:28:56,081] [9] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 13:28:56,413] [9] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 13:29:00,343] [9] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 13:29:00,464] [9] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 13:29:00] "GET / HTTP/1.1" 200 -
+[2022-04-18 13:29:06,499] [9] 172.21.0.1 requested http://localhost/favicon.icoINFO in __init__: My App Logger
+[2022-04-18 13:29:06,911] [9] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 13:29:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-04-18 13:29:16,563] [9] 172.21.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-18 13:29:17,729] [9] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [18/Apr/2022 13:29:17] "%s" %s %s
+[2022-04-18 13:29:17,991] [9] 172.21.0.1 requested http://localhost/loginINFO in _internal: 172.21.0.1 - - [18/Apr/2022 13:29:17] "%s" %s %s
+[2022-04-18 13:29:18,007] [9] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 13:29:18] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2022-04-18 13:29:20,644] [9] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 13:29:20] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2022-04-18 14:08:29,861] [9] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__init__.py', reloading
+[2022-04-18 14:11:28,744] [40] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:11:28,749] [40] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:11:28,968] [40] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:11:28,971] [40] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:11:28] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:19:52,826] [40] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__init__.py', reloading
+[2022-04-18 14:25:00,839] [62] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:25:00,844] [62] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:25:01,039] [62] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:25:01,040] [62] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:25:01] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:27:05,038] [62] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__init__.py', reloading
+[2022-04-18 14:27:24,019] [68] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:27:24,023] [68] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:27:24,170] [68] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:27:24,172] [68] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:27:24] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:28:16,312] [68] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__Init__.py', reloading
+[2022-04-18 14:28:21,576] [74] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:28:21,580] [74] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:28:21,732] [74] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:28:21,735] [74] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:28:21] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:32:17,745] [74] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__Init__.py', reloading
+[2022-04-18 14:32:46,467] [84] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:32:46,469] [84] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:32:46,612] [84] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:32:46,613] [84] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:32:46] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:33:37,317] [84] 172.21.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-18 14:33:37,343] [84] 172.21.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-18 14:33:37,344] [84] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:33:37] "GET /about HTTP/1.1" 200 -
+[2022-04-18 14:33:55,487] [84] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:33:55,498] [84] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:33:55,500] [84] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:33:55] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:44:30,720] [84] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/tests/logs_test.py', reloading
+[2022-04-18 14:47:42,848] [91] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:47:42,851] [91] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:47:43,004] [91] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:47:43,005] [91] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:47:43] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:47:51,741] [91] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:47:51,751] [91] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:47:51,754] [91] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:47:51] "GET / HTTP/1.1" 200 -
+[2022-04-18 14:48:17,400] [91] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__init__.py', reloading
+[2022-04-18 14:48:23,271] [97] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:48:23,290] [97] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:48:23,846] [97] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 14:48:23,850] [97] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 14:48:23] "GET / HTTP/1.1" 200 -
+[2022-04-18 15:00:38,664] [97] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/tests/logs_test.py', reloading
+[2022-04-18 16:31:04,220] [107] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 16:31:04,224] [107] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 16:31:04,365] [107] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 16:31:04,367] [107] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 16:31:04] "GET / HTTP/1.1" 200 -
+[2022-04-18 16:34:54,036] [107] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 16:34:54,050] [107] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 16:34:54,052] [107] None requested NoneINFO in _internal: 172.21.0.1 - - [18/Apr/2022 16:34:54] "GET / HTTP/1.1" 200 -
+[2022-04-18 16:42:09,263] [107] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/db/models/__init__.py', reloading
+[2022-04-19 13:10:03,981] [32] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 13:10:03,986] [32] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 13:10:04,136] [32] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 13:10:04,138] [32] None requested NoneINFO in _internal: 172.21.0.1 - - [19/Apr/2022 13:10:04] "GET / HTTP/1.1" 200 -
+[2022-04-19 13:10:04,387] [32] 172.21.0.1 requested http://localhost/favicon.icoINFO in __init__: My App Logger
+[2022-04-19 13:10:04,405] [32] None requested NoneINFO in _internal: 172.21.0.1 - - [19/Apr/2022 13:10:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-04-19 13:11:59,458] [32] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/app/logging_config/__init__.py', reloading
+[2022-04-19 13:12:43,053] [46] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 13:12:43,057] [46] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 13:12:43,213] [46] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 13:12:43,215] [46] None requested NoneINFO in _internal: 172.21.0.1 - - [19/Apr/2022 13:12:43] "GET / HTTP/1.1" 200 -
+[2022-04-19 13:16:22,897] [46] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/tests/logs_test.py', reloading
+[2022-04-19 14:28:24,611] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:24,618] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:24,863] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:24,902] [32] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:28:24,906] [32] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:28:24,910] [32] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:28:24,918] [32] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:28:25,096] [32] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:28:25,099] [32] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:28:25,116] [32] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:28:25,290] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:25,293] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:25,476] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:25,508] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:25,515] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:25,733] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:25,827] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:25,837] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,100] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,139] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,141] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,263] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,285] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,288] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,439] [32] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:26,461] [32] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:28:26,464] [32] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:28:26,595] [32] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:28:26,622] [32] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:28:26,626] [32] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:28:26,758] [32] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:28:26,800] [32] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:28:26,803] [32] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:28:26,935] [32] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:28:53,636] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:53,639] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:53,782] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:53,807] [38] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:28:53,810] [38] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:28:53,814] [38] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:28:53,819] [38] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:28:53,979] [38] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:28:53,985] [38] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:28:54,005] [38] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:28:54,488] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:54,496] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:54,672] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:54,694] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:54,701] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:54,935] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:54,959] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:54,963] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,134] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,171] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,175] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,391] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,414] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,416] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,602] [38] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:28:55,647] [38] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:28:55,654] [38] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:28:55,829] [38] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:28:55,851] [38] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:28:55,855] [38] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:28:55,987] [38] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:28:56,018] [38] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:28:56,023] [38] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:28:56,260] [38] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:31:33,264] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:33,268] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:33,453] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:33,477] [44] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:31:33,480] [44] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:31:33,483] [44] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:31:33,486] [44] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:31:33,683] [44] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:31:33,688] [44] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:31:33,712] [44] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:31:33,950] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:33,958] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,166] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,191] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,194] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,317] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,343] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,346] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,499] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,599] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,604] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,788] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,841] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:34,848] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:35,100] [44] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:31:35,125] [44] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:31:35,129] [44] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:31:35,293] [44] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:31:35,315] [44] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:31:35,318] [44] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:31:35,440] [44] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:31:35,465] [44] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:31:35,468] [44] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:31:35,609] [44] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:32:48,449] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:48,457] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:48,668] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:48,688] [50] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:32:48,691] [50] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:32:48,693] [50] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:32:48,696] [50] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:32:48,825] [50] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:32:48,830] [50] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:32:48,848] [50] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:32:49,061] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,066] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,292] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,333] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,339] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,553] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,577] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,581] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,795] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,827] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,830] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:49,970] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:50,016] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:50,023] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:50,243] [50] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:32:50,274] [50] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:32:50,279] [50] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:32:50,428] [50] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:32:50,455] [50] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:32:50,458] [50] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:32:50,587] [50] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:32:50,610] [50] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:32:50,613] [50] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:32:50,741] [50] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:33:30,542] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:30,545] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:30,683] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:30,706] [56] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:33:30,709] [56] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:33:30,712] [56] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 14:33:30,716] [56] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:33:30,978] [56] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 14:33:30,985] [56] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:33:31,025] [56] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 14:33:31,222] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,225] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,392] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,416] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,422] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,619] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,640] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,642] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,789] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,833] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:31,838] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:32,058] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:32,085] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:32,088] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:32,225] [56] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 14:33:32,249] [56] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:33:32,252] [56] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:33:32,461] [56] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 14:33:32,510] [56] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:33:32,516] [56] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:33:32,736] [56] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 14:33:32,818] [56] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:33:32,827] [56] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 14:33:33,001] [56] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 15:12:52,078] [110] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 15:12:52,081] [110] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 15:12:52,224] [110] 172.21.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 15:12:52,227] [110] None requested NoneINFO in _internal: 172.21.0.1 - - [19/Apr/2022 15:12:52] "GET / HTTP/1.1" 200 -
+[2022-04-19 15:16:41,935] [110] 172.21.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 15:16:41,956] [110] 172.21.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 15:16:41,959] [110] None requested NoneINFO in _internal: 172.21.0.1 - - [19/Apr/2022 15:16:41] "GET /about HTTP/1.1" 200 -
+[2022-04-19 19:18:18,854] [110] None requested NoneINFO in _internal:  * Detected change in '/home/myuser/tests/logs_test.py', reloading
+[2022-04-19 19:18:20,890] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:20,893] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,015] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,036] [121] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:18:21,038] [121] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:18:21,040] [121] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:18:21,043] [121] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 19:18:21,162] [121] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 19:18:21,165] [121] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 19:18:21,179] [121] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 19:18:21,314] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,317] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,437] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,460] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,463] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,582] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,602] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,605] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,723] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,767] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,770] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,919] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,941] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:21,943] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:22,068] [121] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:18:22,091] [121] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:18:22,093] [121] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:18:22,211] [121] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:18:22,234] [121] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:18:22,237] [121] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:18:22,355] [121] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:18:22,378] [121] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:18:22,381] [121] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:18:22,501] [121] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:19:13,509] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:13,512] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:13,637] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:13,661] [126] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:19:13,664] [126] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:19:13,666] [126] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:19:13,669] [126] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 19:19:13,795] [126] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 19:19:13,799] [126] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 19:19:13,814] [126] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 19:19:13,964] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:13,967] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,089] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,112] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,115] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,233] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,257] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,260] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,381] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,423] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,425] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,546] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,568] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,570] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,691] [126] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:19:14,715] [126] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:19:14,718] [126] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:19:14,850] [126] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:19:14,871] [126] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:19:14,873] [126] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:19:14,988] [126] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:19:15,011] [126] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:19:15,014] [126] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:19:15,132] [126] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:26:13,469] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:13,472] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:13,602] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:13,623] [136] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:26:13,626] [136] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:26:13,628] [136] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
+[2022-04-19 19:26:13,631] [136] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 19:26:13,759] [136] 127.0.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-19 19:26:13,763] [136] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 19:26:13,777] [136] 127.0.0.1 requested http://localhost/loginINFO in __init__: My App Logger
+[2022-04-19 19:26:13,930] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:13,933] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,055] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,077] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,079] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,200] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,224] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,227] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,348] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,390] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,392] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,515] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,540] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,543] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,667] [136] 127.0.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-19 19:26:14,689] [136] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:26:14,691] [136] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:26:14,823] [136] 127.0.0.1 requested http://localhost/aboutINFO in __init__: My App Logger
+[2022-04-19 19:26:14,846] [136] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:26:14,848] [136] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:26:14,968] [136] 127.0.0.1 requested http://localhost/welcomeINFO in __init__: My App Logger
+[2022-04-19 19:26:14,990] [136] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:26:14,992] [136] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
+[2022-04-19 19:26:15,112] [136] 127.0.0.1 requested http://localhost/page5INFO in __init__: My App Logger
