@@ -11,11 +11,11 @@ class Bank(db.Model):
     __tablename__ = 'transactions'
     __table_args__ = {'extend_existing': True}
     id = db.Column(db.Integer, primary_key=True)
-    # also maybe try to change the data type for amount to something other than string?
-    AMOUNT = db.Column(db.FLOAT(), nullable=True, unique=False)
-    account_type = db.Column(db.String(300), nullable=True, unique=False)
+    AMOUNT = db.Column(db.FLOAT(), nullable=False, unique=False)
+    account_type = db.Column(db.String(300), nullable=False, unique=False)
     user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
     user = relationship("User", back_populates="banking")
+
 
     #add fields to the constructor to make them on create
     def __init__(self, AMOUNT, account_type):

@@ -32,6 +32,7 @@ def transactions_browse(page):
     except TemplateNotFound:
         abort(404)
 
+
 @banking.route('/banking/upload', methods=['POST', 'GET'])
 @login_required
 def transactions_upload():
@@ -44,17 +45,12 @@ def transactions_upload():
         form.file.data.save(filepath)
         configure_csv_logging()
         logging.basicConfig(filename='csv.log', level= logging.INFO, format='[%(asctime)s] [%(process)d] %(remote_addr)s requested %(url)s, %(levelname)s : %(message)s')
-        #user = current_user
+        user = current_user
         list_of_transactions = []
         with open(filepath) as file:
             csv_file = csv.DictReader(file)
             for row in csv_file:
-                amount = row.get("AMOUNT")
-                type = row.get("TYPE")
-                if amount is None: continue
-                if type is None: continue
-                list_of_transactions.append(Bank(row(amount)))
-                list_of_transactions.append(Bank(row(type)))
+                list_of_transactions.append(Bank(row.get("AMOUNT"), row.get("TYPE")))
 
         current_user.banking = list_of_transactions
         #current_user.balance += row['AMOUNT']
