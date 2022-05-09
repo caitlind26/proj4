@@ -49,6 +49,7 @@ def transactions_upload():
         list_of_transactions = []
         with open(filepath) as file:
             csv_file = csv.DictReader(file)
+            amount =
             for row in csv_file:
                 list_of_transactions.append(Bank(row.get("AMOUNT"), row.get("TYPE")))
 
