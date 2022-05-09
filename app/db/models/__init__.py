@@ -11,15 +11,15 @@ class Bank(db.Model):
     __tablename__ = 'transactions'
     __table_args__ = {'extend_existing': True}
     id = db.Column(db.Integer, primary_key=True)
-    AMOUNT = db.Column(db.INTEGER, nullable=False, unique=False)
-    account_type = db.Column(db.String(300), nullable=False, unique=False)
+    amount = db.Column(db.String(300), nullable=True, unique=False)
+    account_type = db.Column(db.String(300), nullable=True, unique=False)
     user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
     user = relationship("User", back_populates="banking")
 
 
     #add fields to the constructor to make them on create
-    def __init__(self, AMOUNT, account_type):
-        self.AMOUNT = AMOUNT
+    def __init__(self,amount, account_type):
+        self.amount = amount
         self.account_type = account_type
 
 class User(UserMixin, db.Model):
