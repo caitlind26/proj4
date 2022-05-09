@@ -40,9 +40,9 @@ def create_app():
         app.config.from_object("app.config.TestingConfig")
 
     app.register_error_handler(404, page_not_found)
-    db_dir = "database/db.sqlite"
-    app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///" + os.path.abspath(db_dir)
-    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+    #db_dir = "database/db.sqlite"
+    #app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///" + os.path.abspath(db_dir)
+    #app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
     db.init_app(app)
 
     # https://flask-login.readthedocs.io/en/latest/  <-login manager
