@@ -5,7 +5,7 @@ from app import db
 from app.db.models import User, Bank
 
 
-def registering_user(application):
+def test_registering_user(application):
     log = logging.getLogger("myApp")
     with application.app_context():
         #check that you don't have any users or songs

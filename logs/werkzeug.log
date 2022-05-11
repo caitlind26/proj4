@@ -87,3 +87,16 @@
 2022-05-11 20:38:28,255 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 20:38:28] "GET /banking/upload HTTP/1.1" 200 -
 2022-05-11 20:38:32,070 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 20:38:32] "[32mPOST /banking/upload HTTP/1.1[0m" 302 -
 2022-05-11 20:38:32,171 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 20:38:32] "GET /banking HTTP/1.1" 200 -
+2022-05-11 20:41:31,076 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading
+2022-05-11 21:37:07,567 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:37:07] "GET / HTTP/1.1" 200 -
+2022-05-11 21:37:12,585 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:37:12] "GET /dashboard HTTP/1.1" 200 -
+2022-05-11 21:37:25,131 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:37:25] "GET /users HTTP/1.1" 200 -
+2022-05-11 21:37:25,250 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:37:25] "GET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1" 200 -
+2022-05-11 21:37:29,390 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:37:29] "GET /profile HTTP/1.1" 200 -
+2022-05-11 21:39:57,140 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/login_test.py', reloading
+2022-05-11 21:48:17,825 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:48:17] "GET / HTTP/1.1" 200 -
+2022-05-11 21:48:20,191 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:48:20] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-05-11 21:48:20,233 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:48:20] "GET /login HTTP/1.1" 200 -
+2022-05-11 21:48:30,987 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:48:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-05-11 21:48:31,000 [INFO] werkzeug: 172.19.0.1 - - [11/May/2022 21:48:31] "GET /login HTTP/1.1" 200 -
+2022-05-11 21:52:00,243 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/login_test.py', reloading
