@@ -12,10 +12,10 @@ def index():
     except TemplateNotFound:
         abort(404)
 
-@simple_pages.route('/login')
+@simple_pages.route('/about')
 def about():
     try:
-        return render_template('login.html')
+        return render_template('about.html')
     except TemplateNotFound:
         abort(404)
 
