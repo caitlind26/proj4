@@ -386,3 +386,4 @@
 2022-05-11 01:44:06,933 [INFO] werkzeug: 172.22.0.1 - - [11/May/2022 01:44:06] "GET / HTTP/1.1" 200 -
 2022-05-11 01:44:08,969 [INFO] werkzeug: 172.22.0.1 - - [11/May/2022 01:44:08] "GET /banking/upload HTTP/1.1" 200 -
 2022-05-11 01:44:10,043 [INFO] werkzeug: 172.22.0.1 - - [11/May/2022 01:44:10] "GET /banking HTTP/1.1" 200 -
+2022-05-11 01:54:28,331 [INFO] werkzeug:  * Detected change in '/home/myuser/app/banking/__init__.py', reloading
