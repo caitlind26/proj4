@@ -7,5 +7,3 @@
 
 * [Developmental Deployment](https://p4-dev.herokuapp.com/)
 
-
-hi

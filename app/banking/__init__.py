@@ -51,11 +51,7 @@ def transactions_upload():
         with open(filepath) as file:
             csv_file = csv.DictReader(file)
             for row in csv_file:
-                amount = row.get("AMOUNT")
-                account_type = row.get("TYPE")
-                list_of_transactions.append(Bank(row.get("AMOUNT"), row.get("TYPE")))
-                if amount is None:
-                    list_of_transactions.append(Bank(amount,account_type))
+                list_of_transactions.append(Bank(row.get("\ufeffAMOUNT"), row.get("TYPE")))
         current_user.banking = list_of_transactions
         #current_user.balance += row['AMOUNT']
         db.session.commit()

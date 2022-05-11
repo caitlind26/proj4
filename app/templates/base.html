@@ -43,10 +43,13 @@
 
                         {% else %}
                             {{ render_nav_item('simple_pages.index', 'Home') }}
+                            {{ render_nav_item('banking.transactions_browse','Transactions' ) }}
+                            {{ render_nav_item('banking.transactions_upload','Upload Transactions' ) }}
                         {% endif %}
 
                         {{ render_nav_item('simple_pages.about','About') }}
                         {{ render_nav_item('simple_pages.welcome','Welcome') }}
+
                     </div>
                 </div>
                 <div class="navbar-nav d-flex">
