@@ -22,6 +22,7 @@ app.config['UPLOAD_FOLDER']  = UPLOAD_FOLDER
 
 @banking.route('/banking', methods=['GET'], defaults={"page": 1})
 @banking.route('/banking/<int:page>', methods=['GET'])
+@login.required
 def transactions_browse(page):
     page = page
     per_page = 1000
