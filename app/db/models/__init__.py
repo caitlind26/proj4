@@ -5,7 +5,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 from app.db import db
 from flask_login import UserMixin
 
-
+db.metadata.clear()
 class Bank(db.Model):
     __tablename__ = 'transactions'
     __table_args__ = {'extend_existing': True}
