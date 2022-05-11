@@ -18,10 +18,10 @@ def test_dashboard_authorized_access(application, client, add_user):
     application.test_client_class = FlaskLoginClient
     user = User.query.get(1)
     assert db.session.query(User).count() == 1
-    assert user.email == 'cd394@njit.edu'
+    assert user.email == 'keith@webizly.com'
     with application.test_client(user=user) as client:
         response = client.get('/dashboard')
-        assert b'cd394@njit.edu' in response.data
+        assert b'keith@webizly' in response.data
         assert response.status_code == 200
 
 def test_dashboard_denied(application, client):
@@ -39,7 +39,7 @@ def test_csv_upload_success(application, client, add_user):
     application.test_client_class = FlaskLoginClient
     user = User.query.get(1)
     assert db.session.query(User).count() == 1
-    assert user.email == 'cd394@njit.edu'
+    assert user.email == 'keith@webizly.com'
     with application.test_client(user=user) as client:
         response = client.get('/banking/upload')
         assert response.status_code == 200
