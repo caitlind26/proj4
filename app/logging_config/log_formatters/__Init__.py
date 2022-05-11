@@ -11,12 +11,12 @@ class RequestFormatter(logging.Formatter):
             record.ip = request.headers.get('X-Forwarded-For', request.remote_addr)
             record.host = request.host.split(':', 1)[0]
             record.args = dict(request.args)
-            logging.basicConfig(filename='request.log', level=logging.INFO,
-                                format='[%(asctime)s] [%(process)d] %(remote_addr)s requested %(url)s, %(levelname)s : %(message)s')
-            logging.info(
-                'URL: {} , Remote Address: {} , Request Method: {} , Request Path: {}, IP: {}, Host: {}'.format(
-                    request.url, request.remote_addr, request.method, request.path,
-                    request.headers.get('X-Forwarded-For', request.remote_addr), request.host.split(':', 1)[0]))
+            #logging.basicConfig(filename='request.log', level=logging.INFO,
+             #                   format='[%(asctime)s] [%(process)d] %(remote_addr)s requested %(url)s, %(levelname)s : %(message)s')
+            #logging.info(
+            #    'URL: {} , Remote Address: {} , Request Method: {} , Request Path: {}, IP: {}, Host: {}'.format(
+             #       request.url, request.remote_addr, request.method, request.path,
+             #       request.headers.get('X-Forwarded-For', request.remote_addr), request.host.split(':', 1)[0]))
 
 
         else:

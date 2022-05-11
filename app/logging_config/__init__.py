@@ -50,7 +50,7 @@ def configure_logging():
     log = logging.getLogger("myerrors")
     log.info("THis broke")
 
-
+#@log_con.after_app_request
 def configure_csv_logging():
     logging.config.dictConfig(LOGGING_CONFIG)
     log = logging.getLogger("csvupload")
