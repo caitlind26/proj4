@@ -1,4 +1,4 @@
-astroid==2.11.2
+astroid==2.11.5
 attrs==21.4.0
 bcrypt==3.2.0
 Bootstrap-Flask==2.0.2
@@ -38,7 +38,7 @@ six==1.16.0
 SQLAlchemy==1.4.34
 toml==0.10.2
 tomli==2.0.1
-typing_extensions==4.1.1
+typing_extensions==4.2.0
 uWSGI==2.0.20
 Werkzeug==2.1.1
 wrapt==1.14.0
@@ -46,3 +46,4 @@ WTForms==3.0.1
 zipp==3.8.0
 rfc3339
 Faker
+sqlalchemy-serializer
