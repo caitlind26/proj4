@@ -7,6 +7,7 @@
     {% block title %}Browse: {{ record_type }}{% endblock %}
     {% block content %}
         <h2>Browse: Transactions</h2>
+        <h2>Account Balance : {{ current_user.balance }} </h2>
         {{ render_table(data) }}
         {% from 'bootstrap5/pagination.html' import render_pagination %}
 

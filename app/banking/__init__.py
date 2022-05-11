@@ -45,17 +45,15 @@ def transactions_upload():
         form.file.data.save(filepath)
         configure_csv_logging()
         logging.basicConfig(filename='csv.log', level= logging.INFO, format='[%(asctime)s] [%(process)d] %(remote_addr)s requested %(url)s, %(levelname)s : %(message)s')
-        current_user.balance = 0.0
+        current_user.balance = 0.00
         list_of_transactions = []
-
         with open(filepath) as file:
             csv_file = csv.DictReader(file)
             for row in csv_file:
                 list_of_transactions.append(Bank(row.get("\ufeffAMOUNT"), row.get("TYPE")))
-
+                current_user.balance += float(row.get("\ufeffAMOUNT"))
 
         current_user.banking = list_of_transactions
-        #current_user.balance += row['AMOUNT']
         db.session.commit()
 
         return redirect(url_for('banking.transactions_browse'))
