@@ -38,13 +38,13 @@ def transactions_browse(page):
 def transactions_upload():
     form = upload_csv_file()
     if form.validate_on_submit():
-        log = logging.getLogger("myApp")
-
+        log = logging.getLogger("csv")
+        user = current_user.email
         filename = secure_filename(form.file.data.filename)
         filepath = os.path.join(current_app.config['UPLOAD_FOLDER'], filename)
         form.file.data.save(filepath)
         configure_csv_logging()
-        logging.basicConfig(filename='csv.log', level= logging.INFO, format='[%(asctime)s] [%(process)d] %(remote_addr)s requested %(url)s, %(levelname)s : %(message)s')
+        logging.info('User: ' + user + ', File Name: ' + filename + ', File Path: ' + filepath)
         current_user.balance = 0.00
         list_of_transactions = []
         with open(filepath) as file:
